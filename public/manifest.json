@@ -1,0 +1,24 @@
+{
+  "name": "NMC Reval Make It Easy",
+  "short_name": "NMC Reval Make It Easy",
+  "description": "Your complete toolkit for NMC revalidation — AI reflections, CPD tracking, and one-click portfolio export.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1B3A6B",
+  "theme_color": "#1B3A6B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
