@@ -75,7 +75,7 @@
     "vite": "*",
     "wouter": "^3.3.5",
     "zod": "*",
-  },
+  }
   "dependencies": {
     "@uppy/aws-s3": "^5.1.0",
     "@uppy/core": "^5.2.0",
